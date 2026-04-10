@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hi,+I'm+Reda+Errami👋;Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Future+Software+Engineer🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&color=00FFB3&center=true&vCenter=true&multiline=true&width=800&lines=Hi,+I'm+Reda+Errami👋;Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Future+Software+Engineer🚀)
 
 <!--
 
