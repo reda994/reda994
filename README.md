@@ -1,6 +1,7 @@
-## Hi there 👋
+(https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&color=00FFB3&center=true&vCenter=true&multiline=true&lines=Hi,+I'm+Yahya+Errami👋;Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Future+Software+Engineer🚀)
 
 <!--
+
 **reda994/reda994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
