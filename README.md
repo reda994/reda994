@@ -1,21 +1,19 @@
 # 👋 Welcome to my profile
 
-
 # 👋 Hi, I'm Reda Errami
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&color=00FFB3&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Building+Modern+Web+Applications;Future+Software+Engineer🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&color=00FFB3&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Laravel;Java+%7C+C%2B%2B+%7C+Python;Building+Modern+Web+Applications🚀" />
 </p>
 
 ---
 
 ## 🧑‍💻 Introduction
 
-🎓 I'm a software student at **EMSI**
+🎓 I'm a Software Engineering student at **EMSI**
 💻 Passionate about building modern and scalable web applications
 🚀 I enjoy learning new technologies and solving real-world problems
 🎯 My goal is to become a highly skilled Software Engineer
-
 
 ---
 
@@ -39,6 +37,14 @@
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
 </p>
 
+### 🧠 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+
 ### 🗄️ Database
 
 <p>
@@ -56,32 +62,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📂 Projects
 
-* 🔐 Authentication System (React + Node.js + MySQL)
-* 📦 Stock Management Application
-* 📅 Leave Management System
-* 📚 Library Management (Laravel)
+* 🏥 **Medical Appointment Reservation System** (Python - Django - MySQL)
+* 📦 **Stock Management System** (PHP - Laravel)
+* 🛒 **E-commerce Web App** (Next.js - React - MySQL)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/reda-errami-4a30b129a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:erramireda157@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
@@ -89,6 +84,7 @@
 ---
 
 ⭐️ Designed by Reda Errami
+
 
 
 <!--
