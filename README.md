@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-  <img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img alt="PyPI - Versions from Framework Classifiers" src="https://img.shields.io/pypi/frameworkversions/django/:packageName">
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
 </p>
 
