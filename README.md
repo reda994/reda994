@@ -66,8 +66,8 @@
 ## 📂 Projects
 
 * 🏥 **Medical Appointment Reservation System** (Python - Django - MySQL)
-* 📦 **Stock Management System** (PHP - Laravel)
-* 🛒 **E-commerce Web App** (Next.js - React - MySQL)
+*  **Plateforme de Covoiturage – RideM3aya** (PHP - Laravel)
+*  **Application de Suivi des Projets Internes** (Java- MySQL)
 
 ---
 
